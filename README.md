@@ -4,8 +4,8 @@ Amazon is a fully responsive ecommerce website, maximum compatiblities in all mo
 
 ## Demo
 
-![Amazon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Amazon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Amazon Desktop Demo](desktop.png "Desktop Demo")
+
 
 ## Prerequisites
 
